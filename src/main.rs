@@ -73,5 +73,7 @@ fn get_head(data: &String) {
             }
             println!("\nlength[{}]", &value.len());
         }
+
+        
     }
 }
